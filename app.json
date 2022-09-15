@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mapp",
+    "slug": "mapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
